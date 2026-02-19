@@ -1,5 +1,3 @@
-Project Discontinued (2026-02-18)
-
 Stack: Python, PostgreSQL, psycopg2, SQL, pgAdmin
 
 Project Overview:
@@ -21,5 +19,6 @@ Attributions and Background Info:
 Esports Manager Online (ESMO) is a management mobile game which allows users to build and lead their own MOBA and FPS esports club in real time against managers worldwide. For more information about the game: https://esmo.gg/
 
 At the top of the regional competition structure in the MOBA scene is the League, which consists of a week-long regular season (10-team round-robin) and a single-elim playoff bracket to determine the title winner. 
+
 
 The scope of this database spans the AMER League from Seasons 7.3 to 8.2. 
